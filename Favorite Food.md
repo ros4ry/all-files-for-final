@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>  
+  <h1>Favorite Food</h1>
+  <p>
+ My favorite food is chocolate cake. I like chocolate cake for the following reasons:
+  </p>
+  <ul>
+  <li>It tastes extremely good.</li>
+  <li>It is fun to have at parties.</li>
+  <li>You can write anything you want on it.</li>
+</ul>
+  <pre>
+    With most foods, you cannot write anything on it. But with chocolate cake, you can. 
+    This means that you can have chocolate cake for any occasion. 
+  </pre>
+  
+  
+  </body>
+  
+  
+  
+  
+</html>
