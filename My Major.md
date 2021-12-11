@@ -19,7 +19,7 @@
   
   If you want to know more about a major in Political Science, click <a href="https://politicalscience.missouri.edu/">here</a>.
   
-  
+  <a href="https://github.com/ros4ry/ros4ry.github.io/blob/main/README.md">Home Page</a>
   
   </body>
   </html>
