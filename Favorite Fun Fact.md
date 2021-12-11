@@ -1,1 +1,17 @@
-
+<!DOCTYPE html>
+<html>
+<body> 
+  <h1>My Favorite Fun Fact</h1>
+  <p>
+    My favorite fun fact is that mosquitos are deadliest animal on the planet.
+    <br>
+    <a href="https://www.cnet.com/pictures/the-24-deadliest-animals-on-earth-ranked/24/">Mosquitos are responsible for more human deaths than humans every year</a>. 
+    <br>
+    Most of the deaths are cause by malaria, which is scary.
+  </p>
+    Trust me, you <b>DO NOT</b> want to be trapped in a room alone with one of these things. 
+  
+  
+  
+  </body>
+  </html>
