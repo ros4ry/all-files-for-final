@@ -10,8 +10,12 @@
     Please enjoy the following information about me. 
   </p>
   
-  <a href="https://github.com/ros4ry/ros4ry.github.io/blob/main/Favorite%20Food.md">Favorite Food</a>
-  
+  <ul>
+  <li><a href="https://github.com/ros4ry/ros4ry.github.io/blob/main/Favorite%20Food.md">Favorite Food</a></li>
+  </ul>
+    
+    
+    
   </body>
   
   
