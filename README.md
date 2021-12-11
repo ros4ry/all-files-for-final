@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-<body>  
+<head>
+<link rel="stylesheet" href="background.css">
+</head>
+  <body>  
   <h1>About Me</h1>
   <p>
   Hello, my name is Ross Sommers, and this is my final project for INFOTC 1000.  
