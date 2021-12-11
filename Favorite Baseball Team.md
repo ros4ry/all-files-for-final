@@ -25,7 +25,7 @@
   </tr>
 </table>
   <p>
-    In case you don't know, those numbers are very high. 
+    In case you don't know, those numbers are <i>very</i> high. 
   </p>
   
   
