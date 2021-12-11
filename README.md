@@ -13,6 +13,7 @@
   <ul>
   <li><a href="https://github.com/ros4ry/ros4ry.github.io/blob/main/Favorite%20Food.md">Favorite Food</a></li>
   <li><a href="https://github.com/ros4ry/ros4ry.github.io/blob/main/Favorite%20Baseball%20Team.md">Favorite Baseball Team</a></li>
+  <li><a href="https://github.com/ros4ry/ros4ry.github.io/blob/main/Favorite%20Fun%20Fact.md">Favorite Fun Fact</a></li>
   </ul>
     
     
