@@ -15,7 +15,9 @@
     This means that you can have chocolate cake for any occasion. 
   </pre>
   
-  
+  <p>
+    If you would like to know how to make a good chocolate cake, click <a href="https://addapinch.com/the-best-chocolate-cake-recipe-ever/" target="_blank">here</a>.
+  </p>
   
   
   <a href="https://github.com/ros4ry/ros4ry.github.io/blob/main/README.md">Home Page</a>
